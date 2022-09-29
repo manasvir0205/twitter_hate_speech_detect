@@ -172,17 +172,4 @@ with contact:
     st.markdown("---")
     st.header('For More Information')
     st.text('')
-    st.write("""
-
-    **Check out the project repository [here](https://github.com/sidneykung/twitter_hate_speech_detection).**
-
-    Contact Sidney Kung via [sidneyjkung@gmail.com](mailto:sidneyjkung@gmail.com).
-    """)
-
-    st.subheader("Let's Connect!")
-    st.write("""
-    
-    [LinkedIn](https://www.linkedin.com/in/sidneykung/) | [Github](https://github.com/sidneykung)  |  [Medium](https://medium.com/@sidneykung)  |  [Twitter](https://twitter.com/sidney_k98)
-
-
-    """)
+    st.write(""")

@@ -118,12 +118,6 @@ However, it's hard for a machine learning model to understand the nuances with t
 
 Ultimately, automating hate speech detection is an extremely difficult task because of the nuances in English slang and slurs. This project was able to get that process started, but there is much more work to be done to keep this content off of public-facing forums such as Twitter.
 
-## Final Model Deployment
-
-An **interactive version** of the final model is hosted on Heroku. Check it out [here](https://hate-speech-predictor.herokuapp.com/)!
-
-![demo](./visualizations/model_demo.gif)
-
 ## Next Steps
 
 To further develop this project, here are some immediate next steps that anyone could execute.
@@ -164,14 +158,8 @@ To further develop this project, here are some immediate next steps that anyone 
 
 ## References
 
-**Data Source**
-
-- Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,.
 
 **Packages**
 
 - Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 
-**Banner & Presentation Template Source**
-
-- [SlidesGo](https://slidesgo.com/)

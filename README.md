@@ -145,20 +145,6 @@ To further develop this project, here are some immediate next steps that anyone 
 ├── presentation.pdf                   # slide deck
 └── web_app.py                         # interactive dashboard to host project
 ```
-
-## For More Information
-
-- See the [full project overview](https://github.com/sidneykung/twitter_hate_speech_detection/blob/master/final_notebook.ipynb) in the `final_notebook.ipynb` Jupyter Notebook.
-
-- For additional information or suggestions, contact Sidney Kung at [sidneyjkung@gmail.com](mailto:sidneyjkung@gmail.com)
-
-**Let's connect!**
-
-<a href="https://www.linkedin.com/in/sidneykung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/sidney_k98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-## References
-
-
 **Packages**
 
 - Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
